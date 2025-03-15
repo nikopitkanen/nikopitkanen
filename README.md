@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there
+
+My name is **Niko Pitkänen**. I am currently student at Turku University of Applied Sciences taking BBA degree programme in Business Information Technology.
+
+At the moment I'm trying to learn python, sql and BASH. I have developed an interest in ux/ui design and I am trying to do some smaller projects with python and tkinter.  
 
 <!--
 **nikopitkanen/nikopitkanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
